@@ -9,6 +9,6 @@ accountEmail="swa@.com"
 accountPassword="2121221"
 accountCity="BBSR"
 
-console.log(accountId);
+
 
 console.table([accountId,accountEmail,accountPassword,accountCity]);
